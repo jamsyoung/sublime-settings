@@ -1,0 +1,24 @@
+{
+	"file_exclude_patterns":
+	[
+		".class",
+		".git",
+		".DS_Store",
+		".swp"
+	],
+	"folder_exclude_patterns":
+	[
+		"target",
+		".svn",
+		".git",
+		".sass-cache"
+	],
+	"font_size": 13.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Soda Dark.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}

@@ -1,0 +1,40 @@
+<snippet>
+    <content><![CDATA[
+{
+    "name": "${1}",
+    "version": "0.1.0",
+    "private": ${2:true},
+    "description": "${3}",
+    "author": {
+        "name": "James Young",
+        "email": "jmeyoung@gmail.com",
+        "url": "http://jamsyoung.com"
+    },
+    "scripts": {
+        "start": "${4}"
+    },
+    "repository": {
+        "type": "git",
+        "url": "${5}"
+    },
+    "engines": {
+        "node": "${6:0.10.26}"
+    },
+    "dependencies": {
+        ${7}
+    },
+    "devDependencies": {
+        ${8}
+    },
+        "config": {
+        "port": ${9:8080}
+    },
+    "keyworlds": [
+        ${10}
+    ]
+}
+]]></content>
+    <tabTrigger>!package</tabTrigger>
+    <scope>source.json</scope>
+    <description>package.json</description>
+</snippet>

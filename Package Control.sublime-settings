@@ -1,0 +1,21 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"AngularJS",
+		"Dust.js",
+		"EditorConfig",
+		"Git",
+		"GitGutter",
+		"Google Spell Check",
+		"JSHint",
+		"Markdown Preview",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"SyncedSideBar",
+		"Theme - Soda"
+	]
+}
